@@ -1,6 +1,8 @@
 {
   "name": "vuetify-project",
   "version": "0.0.0",
+  "homepage":"https://zhangrongxiang.github.io/vuetify-project",
+
   "scripts": {
     "dev": "cross-env NODE_OPTIONS='--no-warnings' vite",
     "build": "vite build",
