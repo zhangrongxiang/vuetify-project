@@ -21,7 +21,7 @@
 
 <script>
 import { defineComponent,ref } from "vue";
-import TodoItem from "./components/ToDoItem.vue";
+import TodoItem from "./components/todoitem.vue";
 import uniqueId from "lodash.uniqueid";
 import todobtn from "./components/todoforum.vue"
 export default {
