@@ -1,5 +1,7 @@
 <template>
+   <link href="https://cdn.jsdelivr.net/npm/vuetify@3.5.4/dist/vuetify.min.css" rel="stylesheet">
   <link href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" rel="stylesheet">
+
  <div id="app">
   <v-container align="center">
     <v-card width="600px"><h1>To-Do List</h1>
@@ -18,6 +20,7 @@
 </div>
 
 </template>
+
 
 <script>
 import { defineComponent,ref } from "vue";
